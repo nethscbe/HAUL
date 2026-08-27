@@ -1,4 +1,4 @@
 # HAUL
 Useful Links
 ## 📄 Useful Documents
-[Diagnostics : Error Codes](Error_Codes_Diagnostics_A5_A2.pdf)
+[Diagnostics and Troubleshooting : Error Codes](Error_Codes_Diagnostics_A5_A2.pdf)
